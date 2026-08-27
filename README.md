@@ -1,3 +1,5 @@
+<img src="assets/banner.jpg" width="100%" alt="" />
+
 <div align="center">
 
 <img src="assets/profile.jpg" width="150" alt="Henock Mukonkole" style="border-radius:50%;" />
