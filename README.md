@@ -30,7 +30,7 @@ Alongside that, I'm a computer engineer by training, with a background spanning 
 
 ## Background
 
-- 🎓 BEngTech Honours, Computer Engineering (expected Dec 2026)
+- 🎓 BEngTech Honours, Computer Engineering
 - 🛠️ Project work across embedded systems, IoT monitoring, renewable energy control, and AI-enabled tools
 
 <details>
