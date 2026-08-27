@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="assets/profile.jpg" width="150" alt="Henock Mukonkole" style="border-radius:50%;" />
-
 # Hi, I'm Henock 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Junior+Software+Support+Specialist+%40+EvTrack;Computer+Engineer;Embedded+systems+%2B+AI-enabled+software;English+%26+French+speaking)](https://git.io/typing-svg)
@@ -63,12 +61,7 @@ I build small end-to-end systems that combine hardware and software, sensor pipe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=henock-wq&show_icons=true&theme=default&hide_title=false&hide_border=true" alt="Henock's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henock-wq&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=henock-wq&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=henock-wq&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+<img src="https://streak-stats.demolab.com/?user=henock-wq&hide_border=true" alt="GitHub streak" />
 
 </div>
 
