@@ -54,7 +54,7 @@ I build small end-to-end systems that combine hardware and software, sensor pipe
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -70,12 +70,17 @@ I build small end-to-end systems that combine hardware and software, sensor pipe
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+![Proteus](https://img.shields.io/badge/-Proteus-E77729?style=for-the-badge&logo=proteus&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/-Tinkercad-1BA1E2?style=for-the-badge&logo=tinkercad&logoColor=white)
 
 </div>
-
-**Also working with:** Vertex AI, Dialogflow, data visualization, scientific computing, HPC fundamentals · ESP32, STM32, Node-RED, PWM motor control, digital electronics, circuit design, PCB repair/design, Proteus, Wokwi, Tinkercad · grid-tied/off-grid inverter fundamentals, charge controllers, DC cable sizing, PV commissioning fundamentals, battery storage, VFDs/VSDs, control systems, signal processing
 
 ---
 
