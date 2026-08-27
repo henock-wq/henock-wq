@@ -57,14 +57,6 @@ I build small end-to-end systems that combine hardware and software, sensor pipe
 
 </div>
 
-## GitHub stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=henock-wq&hide_border=true" alt="GitHub streak" />
-
-</div>
-
 ---
 
 <div align="center">
