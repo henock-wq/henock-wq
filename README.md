@@ -89,3 +89,7 @@ I build small end-to-end systems that combine hardware and software, sensor pipe
 *Thanks for stopping by.*
 
 </div>
+
+<div align="center">
+<img src="assets/evtrack-banner.jpg" width="100%" alt="EvTrack, visitor management that just works" />
+</div>
